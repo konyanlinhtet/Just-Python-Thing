@@ -10,5 +10,5 @@ print(" [1,20] or 0=> ", [1,20] or 0)
 
 print('False or "Hello" ', False or 'Hello')
 print('"" or "Hello" ', "" or 'Hello')
-print('"" or "Hello" ', "" or 1000)
-print(' [] or "Hello" ', [] or 1000)
+print('"" or 1000', "" or 1000)
+print(' [] or 1000 ', [] or 1000)

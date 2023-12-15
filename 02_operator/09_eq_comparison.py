@@ -1,7 +1,7 @@
 print("True ==1 ", True == 1)
 print("False ==0 ", False == 0)
 
-print("'False' ==0 ", 'True' == 1)
+print("'True' == 1 ", 'True' == 1)
 
 lst1 = [1,2,3]
 lst2 = ["1",2,3]
