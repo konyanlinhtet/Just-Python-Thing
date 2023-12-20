@@ -1,7 +1,7 @@
-flag = True
+flag = False
 print("flag is ",flag)
 
-flag = False
+flag = True
 print("flag is ",flag)
 
 x = 10
