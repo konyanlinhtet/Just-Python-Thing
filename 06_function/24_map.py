@@ -5,3 +5,4 @@ def is_even(x) :
      return x % 2 ==0
 
 print(list(map(incTen, filter(is_even, my_lst))))
+print(list(map(incTen, my_lst)))

@@ -10,7 +10,6 @@ print("Num in octal 017=>",num_in_octal)
 num_in_hexa = 0X20
 print("Num in num_in_hexa 0x10=>",num_in_hexa) 
 
-flag = True #boolean literal
 
 print("32 in hexa ",hex(32))
 print("32 in oct ",oct(32))

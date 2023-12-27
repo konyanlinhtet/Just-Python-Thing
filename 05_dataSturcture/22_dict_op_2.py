@@ -3,7 +3,7 @@ marks = {
     "English":50,
     "Math":60,
 }
-key = "Myanmar1"
+key = "Myanmar"
 value = marks.pop(key,0)
 print("Key => ", value)
 

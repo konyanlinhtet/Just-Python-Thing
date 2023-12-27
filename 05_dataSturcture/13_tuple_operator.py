@@ -17,7 +17,7 @@ print("Fruit repeated count(Apple) ",fruits_repeated.count("Apple"))
 print("Fruit repeated index(Apple) ",fruits_repeated.index("Apple"))
 
 #print("Fruit repeated index(Apple) ",fruits_repeated.index("Apple1"))
-print("String index ","Hello".find("Hello1"))
+print("String index ","Hello".find("Hello"))
 
 another_tuple = (1,2,3,4,5)
 sorted_tuple = sorted(another_tuple)

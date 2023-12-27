@@ -1,5 +1,3 @@
-
-
 str = "  Hello  "
 print("lstrip=>",str.lstrip() + ":")
 print("strip=>",str.strip() + ":")

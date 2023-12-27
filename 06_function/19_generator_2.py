@@ -5,3 +5,5 @@ def custom_range (start, end) :
     
 for x in custom_range(1,5) :
      print(x)
+
+print(list(custom_range(2,6)))

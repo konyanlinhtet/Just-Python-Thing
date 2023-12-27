@@ -3,7 +3,7 @@ marks = {
     "English":50,
     "Math":60,
 }
-key = "Myanmar"
+key = "Myanmar1"
 value = marks.get(key,0)
 print("Key => ", value)
 
@@ -18,7 +18,7 @@ print("Marks key ",marks.keys())
 
 print("Marks value ",marks.values())
 
-for k in iter(marks):
+for k in marks.keys():
     print("Key ",k)
     
 new_dict = dict.fromkeys(iter(marks),[10,20])

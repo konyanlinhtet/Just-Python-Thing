@@ -9,6 +9,7 @@ b = [10,20,30]
 c = b
 print("id(a) ",id(a), " id (b) ",id(b))
 print("a is b ",a is b)
+print("a == b", a == b)
 print("c is b ",c is b)
 
 d = ()
