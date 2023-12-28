@@ -19,5 +19,5 @@ class Car:
     
 dieselEngine = DieselEngine() #inversion of control
 engine = Engine()
-car = Car(engine)
+car = Car(dieselEngine)
 car.start()
